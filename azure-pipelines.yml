@@ -10,8 +10,8 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 variables:
-  acrId: acrtestmumshad
-  acrPswd: LRoyTf/oFUZMdHEOXb7bNidtC=lJUlUN
+  acrId: mynewacrtest
+  acrPswd: 3CeJ6cfn+414w4yea2SKgHRdVds+h6oc
 
 steps:
 - script: |
